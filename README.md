@@ -9,3 +9,7 @@
 - $ ` cd cloudflared `
 - $ ` chomd 777 setup `
 - $ ` ./setup `
+- $ `apt update && apt upgrade`
+- $ `pkg install python`
+- $ `pkg install python2`
+- $ `pkg install git`
