@@ -1,5 +1,6 @@
 # cloudflared
-
+<html>
+<body>
 <h1>How to Install Cloudflared</h1>
 
 - $ ` apt update && apt upgrade `
@@ -13,7 +14,6 @@
 
 <p>Type cloud then tool Run</p>
 - $ `cloud` </br>
-- $ ` cd cloudflared `
-- $ ` chomd 777 setup `
-- $ ` ./setup `
 Enjoy ☺️☺️
+</body>
+</html>
