@@ -12,5 +12,8 @@
 <h1>How to Run</h1>
 
 <p>Type cloud then tool Run</p>
-- $ `cloud`
+- $ `cloud` </br>
+- $ ` cd cloudflared `
+- $ ` chomd 777 setup `
+- $ ` ./setup `
 Enjoy ☺️☺️
