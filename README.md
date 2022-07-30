@@ -8,7 +8,7 @@
 - $ ` apt install php `
 - $ ` git clone https://github.com/techaleex/cloudflared `
 - $ ` cd cloudflared `
-- $ ` chomd 777 setup `
+- $ ` chmod 777 setup `
 - $ ` ./setup `
 <h1>How to Run</h1>
 
