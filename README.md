@@ -13,7 +13,7 @@
 <h1>How to Run</h1>
 
 <p>Type cloud then tool Run</p>
-- $ `cloud` </br>
+- $ ` cloud ` </br>
 Enjoy ☺️☺️
 </body>
 </html>
