@@ -6,7 +6,7 @@
 # [✓] Copy this Tool with Credit    #
 #####################################
 
-
+echo -e "\033[1;33m[•] Please Wait ...."
 apt-get install figlet -y > /dev/null 2>&1
 pip install lolcat -y > /dev/null 2>&1
 z="
